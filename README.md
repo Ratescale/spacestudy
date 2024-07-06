@@ -15,7 +15,7 @@
 - Ars Technica(英語)：https://arstechnica.com/
 - Space.com(英語)：https://www.space.com/
 - SpaceRef(英語)：https://spaceref.com/
-- s-net:https://s-net.space/
+- s-net : https://s-net.space/
 
 ### ニュースレター編
 - Orbits(日本語)：https://orbits.theletter.jp/
